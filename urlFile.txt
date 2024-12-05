@@ -1,0 +1,21 @@
+Це приклад тексту з кількома URL-адресами для тестування.
+Ось посилання на сайт: https://www.example.com
+Інший приклад: ftp://ftp.example.org
+Не забудьте відвідати https://my-site.com/products?page=2&sort=asc
+
+Також є ще кілька URL-адрес:
+- http://example.net
+- https://www.sample-page.com/category?id=123&sort=desc
+- ftp://files.example.org/documents/file.pdf
+- Перейдіть за посиланням https://test-site.com?ref=promo
+
+Це ще один рядок без URL-адреси.
+А ось ще один URL, який варто перевірити: https://www.new-website.com/contact
+
+І ось ще кілька прикладів:
+1. https://abc.com
+2. ftp://files.ftpserver.com/uploads/image.jpg
+3. https://www.shopping-site.com/cart?item=1&quantity=2
+4. Перевірте посилання https://my-blog.com/article?id=45
+
+Загалом текст має різні типи посилань для перевірки.
